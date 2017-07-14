@@ -1,4 +1,4 @@
-class: Workflow
+class:  Workflow
 id: "bwa-mem-0.15 to samtools view"
 label: "WorkFlowTest v1.0"
 
