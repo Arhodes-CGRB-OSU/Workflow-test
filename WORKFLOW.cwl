@@ -49,4 +49,4 @@ steps:
       - { id: output_name, source: "#output_filename" }
     out:
       - { id: output }
-    run: SAMTOOLS_VIEW.cwl
+    run: SAMTOOLS-VIEW.cwl
