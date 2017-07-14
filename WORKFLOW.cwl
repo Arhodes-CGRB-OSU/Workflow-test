@@ -8,6 +8,9 @@ cwlVersion: v1.0
 #'foaf:mbox': mailto:adelaide.rhodes@gmail.com}
 
 inputs:
+  - id : M_flag
+    type: boolean
+    default: true
   - id: fastq1
     type: File
     doc: "Required first fastq file"
