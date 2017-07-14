@@ -1,0 +1,24 @@
+bedoverlap: null
+cigar: null
+collapsecigar: true
+count: false
+fastcompression: false
+input:
+    class: File
+    path: ../outputs/output.sam
+isbam: true
+iscram: false
+output_name: output.bam
+randomseed: null
+readsingroup: null
+readsingroupfile: null
+readsinlibrary: null
+readsquality: null
+readswithbits: null
+readswithoutbits: null
+readtagtostrip: null
+referencefasta: null
+region: null
+samheader: true
+threads: 6
+uncompressed: false
