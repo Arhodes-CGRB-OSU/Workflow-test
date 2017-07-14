@@ -71,5 +71,5 @@ s:creator:
 - class: s:Person
   s:name: "Petr Danecek"
   s:description: "contributed the header parsing library sam_header.c and sam2vcf.pl script."
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
+#Contact GitHub API Training Shop Blog About
+#© 2017 GitHub, Inc. Terms Privacy Security Status Help
