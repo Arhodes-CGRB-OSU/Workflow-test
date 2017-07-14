@@ -1,0 +1,10 @@
+M_flag: true
+fasta:
+    class: File
+    path: ../inputs/ecoli-rel606.fa.gz
+fastq1:
+    class: File
+    path: ../inputs/SRR2584857.fq.gz
+fastq2: null
+output_filename: output.bam
+threads: 6
