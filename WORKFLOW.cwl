@@ -38,7 +38,7 @@ steps:
   - id: bwamem
     in:
       - { id: fastq1, source: "#fastq1" }
-      - { id: fasta, source: "#reference" }
+      - { id: fasta, source: "#fasta" }
       - { id: threads, source: "#threads" }
     out:
       - { id: output.sam }
