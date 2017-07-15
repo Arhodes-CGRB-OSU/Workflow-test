@@ -42,6 +42,7 @@ steps:
     in:
       - { id: M_flag, source: "M_flag" }
       - { id: fastq1, source: "#fastq1" }
+      - { id: fastq2, source: "#fastq2"}
       - { id: fasta, source: "#fasta" }
       - { id: threads, source: "#threads" }
     out:
